@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Muhammad Kamran Rafi 👋
 
-<!--
-**mkamranr/mkamranr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | AI Architect
 
-Here are some ideas to get you started:
+I design and build production-ready AI systems, from model inference and computer vision to agentic AI platforms and enterprise AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Areas of focus**
+- 🤖 LLMs, RAG and Agentic AI
+- 🧠 Local LLM inference and model serving
+- 🔌 MCP, AI agents and tool orchestration
+- 🏗️ Enterprise AI architecture and MLOps
+- 👁️ Computer Vision, YOLO, OpenCV and TensorRT
+- 🔒 Private, secure and air-gapped AI deployments
+- 🎙️ Speech AI, ASR and TTS
+
+**Technologies**
+
+Python · FastAPI · vLLM · PyTorch · LangGraph · MCP · Qdrant · MongoDB · Docker · NVIDIA CUDA · OpenCV · TensorRT
+
+### Featured Open Source Projects
+
+- Private AI Platform – Self-hosted enterprise AI infrastructure.
+- SecureFix – AI-powered security vulnerability analysis and remediation.
+- OpenLLM-Eval – Evaluation and benchmarking for production LLMs.
+- OfflineAI – Deploy AI workloads in air-gapped environments.
+
+I enjoy building practical open-source tools that make AI more accessible, reliable, secure and production-ready.
